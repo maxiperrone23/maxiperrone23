@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, machine learning, software architecture, best practices of ODD
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on java backend proyects 
-- 📫 How to reach me maxiperrone23@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/perrone-maximiliano/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: walk with my dogs, learn and investigate new skills
 
